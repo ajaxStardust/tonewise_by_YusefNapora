@@ -1,4 +1,6 @@
-# tonewise
+# FORK of tonewise
+## PLEASE SEE TONEWISE instead
+### This is Private Testing area
 
 ![a banner image showing a tonewise logo on a colorful background](./assets/opengraph.png)
 
