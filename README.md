@@ -1,6 +1,7 @@
 # FORK of tonewise
 ## PLEASE SEE TONEWISE instead
-### This is Private Testing area
+### This is Testing area for something
+See [this guitar website](https://statecollegeguitarlessons.site/temp) for more about that. please do!
 
 ![a banner image showing a tonewise logo on a colorful background](./assets/opengraph.png)
 
